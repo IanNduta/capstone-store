@@ -4,9 +4,21 @@
 }
 #h2{
     text-align: center;
-    margin-top: 9%;
+    margin-top: 6%;
 }
 .card-footer {
     background: transparent;
     border-top: 0px;
   }
+/*body{
+    background:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7FcVWOi6lO0J2l3oJ2F2GsHWwcdV79Z4tw&s");
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: contain, cover;
+}
+ #border{ 
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+
+}*/

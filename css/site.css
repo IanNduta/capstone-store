@@ -10,6 +10,12 @@
     background: transparent;
     border-top: 0px;
   }
+#loginform{
+    width: 500px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 25px;
+}
 /*body{
     background:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7FcVWOi6lO0J2l3oJ2F2GsHWwcdV79Z4tw&s");
     background-color: #ffffff;

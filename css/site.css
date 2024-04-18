@@ -1,3 +1,26 @@
+.row {
+    border: 2px solid brown;
+}
+
+.col {
+    border: 2px dashed yellow;
+}
+.card {
+    border: 2px dotted blue;
+}
+
+#productgrid .card{
+height: 100%;
+
+}
+
+#productgrid .card-body{
+    display:flex;
+justify-content:space-between;
+flex-direction: column;
+}
+
+
 #registration{
     border: 2px solid black;
     padding: 10px;
@@ -21,6 +44,11 @@
     margin-left: 10px;
     padding-left: 1%;
     margin: 0;
+}
+.correct{
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
+    margin: 5% 5%;
 }
 /*body{
     background:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7FcVWOi6lO0J2l3oJ2F2GsHWwcdV79Z4tw&s");

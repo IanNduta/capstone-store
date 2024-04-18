@@ -1,4 +1,4 @@
-.row {
+/*.row {
     border: 2px solid brown;
 }
 
@@ -7,7 +7,7 @@
 }
 .card {
     border: 2px dotted blue;
-}
+}*/
 
 #productgrid .card{
 height: 100%;
@@ -28,6 +28,16 @@ flex-direction: column;
 #h2{
     text-align: center;
     margin-top: 6%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 5px;
+}
+ul{
+    list-style-type: 
+}
+.tp{
+    border: 2px solid black;
+    background-color: rgb(240, 240, 240);
 }
 .card-footer {
     background: transparent;
@@ -46,9 +56,11 @@ flex-direction: column;
     margin: 0;
 }
 .correct{
-    /* margin-left: 5%; */
-    /* margin-right: 5%; */
-    margin: 5% 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    border: 1px solid black
+    /* margin: 5% 5%; */
 }
 /*body{
     background:  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA7FcVWOi6lO0J2l3oJ2F2GsHWwcdV79Z4tw&s");
